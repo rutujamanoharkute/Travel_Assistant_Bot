@@ -1,6 +1,9 @@
 # Travel_Assistant_Bot
 Travel_Assistant_Bot
 
+<img width="1440" alt="image" src="https://github.com/rutujamanoharkute/Travel_Assistant_Bot/assets/114360071/9061238c-1840-4ef8-b781-b984371b203c">
+
+
 Certainly! Here's a README template for a travel bot that compares the performance of Ollama (Llama3, Gemma:2b) and OpenAI GPT models:
 
 ---
